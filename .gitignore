@@ -1,0 +1,10 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large dataset files (if any)
+#*.csv
+*.tsv
+#*.xlsx
+
+# Ignore VS Code workspace settings
+.vscode/
